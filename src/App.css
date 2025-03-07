@@ -54,6 +54,7 @@
           display: flex;
           padding: 10px;
           align-items: center;
+          color: #000 !important;
           justify-content: space-between; /* Moves the trash icon to the right */
           border-bottom: 1px solid #ccc;
 
