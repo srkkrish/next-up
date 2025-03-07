@@ -52,3 +52,9 @@ export default tseslint.config({
   },
 })
 ```
+Please find some snapshots for **NextUp** app with attached performance report using npx-unlighthouse [Instead of running Lighthouse one page at a time, Unlighthouse scans your entire site in one go and scores every page.] Full command => **npx unlighthouse --site**
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/9e0998ee-9612-442f-b5da-05cb7d1b57cf" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/fcc46ecd-986f-4a86-af59-85caf17bc44e" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/c101d375-2e71-4e51-821a-ac470986de0d" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/18020a13-2e05-43f8-8a3d-8f0a34400368" />
