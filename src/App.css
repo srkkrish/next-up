@@ -111,6 +111,7 @@
     .footer {
       padding: 5px;
       display: flex;
+      color: #000;
       justify-content: end;
       border-top: 2px dashed black;
     }
